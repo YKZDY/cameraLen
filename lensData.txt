@@ -1,0 +1,193 @@
+#Canon
+CN-E_14.5-60mm_T2.6_L_S_(EF) zoom 14.5 60
+CN-E_14.5-60mm_T2.6_L_SP_(PL) zoom 14.5 60
+CN-E_30-300mm_T2.95-3.7_L_S_(EF) zoom 30 300
+CN-E_30-300mm_T2.95-3.7_L_SP_(PL) zoom 30 300
+CN-E_15.5-47mm_T2.8_L_S_(EF) zoom 15.5 47
+CN-E_15.5-47mm_T2.8_L_SP_(PL) zoom 15.5 47
+CN-E_30-105mm_T2.8_L_S_(EF) zoom 30 105
+CN-E_30-105mm_T2.8_L_SP_(PL) zoom 30 105
+CN-E_14mm_T3.1_L_F prime 14
+CN-E_24mm_T1.5_L_F prime 24
+CN-E_50mm_T1.3_L_F prime 50
+CN-E_85mm_T1.3_L_F prime 85
+CN-E_135mm_T2.2_L_F prime 135
+EF_8-15mm_f/4L_USM_(fisheye_lens) zoom 8 15
+EF-S_10-22mm_f/3.5-4.5_USM zoom 10 22
+EF_16-35mm_f/2.8L_II_USM zoom 16 35
+EF-S_15-85mm_f/3.5-5.6_IS_USM zoom 15 85
+EF-S_17-55mm_f/2.8_IS_USM zoom 17 55
+EF_24-70mm_f/4L_IS_USM zoom 24 70
+EF-S_18-55mm_f/3.5-5.6_IS_STM zoom 18 55
+EF-S_18-135mm_f/3.5-5.6_IS_STM zoom 18 135
+EF_40mm_f/2.8_STM prime 40
+EF_70-200mm_f/2.8L_IS_II_USM zoom 70 200
+EF_70-200mm_f/4L_IS_USM zoom 70 200
+EF_70-300mm_f/4-5.6L_IS_USM zoom 70 300
+EF_70-300mm_f/4.5-5.6_DO_IS_USM zoom 70 300
+EF_24mm_f/2.8_IS_USM prime 24
+EF_28mm_f/2.8_IS_USM prime 28
+EF_35mm_f/2_IS_USM prime 35
+EF_24mm_f/1.4L_II_USM prime 24
+EF_35mm_f/1.4L_USM prime 35
+EF_50mm_f/1.2L_USM prime 50
+EF_85mm_f/1.2L_II_USM prime 85
+EF_800mm_f/5.6L_IS_USM prime 800
+EF_600mm_f/4L_IS_II_USM prime 600
+EF_500mm_f/4L_IS_II_USM prime 500
+EF_400mm_f/2.8L_IS_II_USM prime 400
+EF_300mm_f/2.8L_IS_II_USM prime 300
+EF_200mm_f/2L_IS_USM prime 200
+EF_200-400mm_f/4L_IS_USM_EXTENDER_1.4X zoom 200 400
+MP-E_65mm_f/2.8_1-5X_(microspur) prime 65
+EF_100mm_f/2.8L_IS_USM_(microspur) prime 100
+EF-S_60mm_f/2.8_USM_(microspur) prime 60
+TS-E_24mm_f/3.5L_II prime 24
+TS-E_17mm_f/4L prime 17
+EF_24-70mm_f/2.8L_II_USM zoom 24 70
+#RED
+RED_PRO_PRIMES_18mm_(Imperial) prime 18
+RED_PRO_PRIMES_18mm_(Metric) prime 18
+RED_PRO_PRIMES_25mm_(Imperial) prime 25
+RED_PRO_PRIMES_25mm_(Metric) prime 25
+RED_PRO_PRIMES_35mm_(Imperial) prime 35
+RED_PRO_PRIMES_35mm_(Metric) prime 35
+RED_PRO_PRIMES_100mm_(Imperial) prime 100
+RED_PRO_PRIMES_100mm_(Metric) prime 100
+RED_PRO_PRIMES_300mm_(Imperial) prime 300
+RED_PRO_PRIMES_300mm_(Metric) prime 300
+RED_PRO_PRIMES_(BATTLE-TESTED)_18mm_(Imperial) prime 18
+RED_PRO_PRIMES_(BATTLE-TESTED)_300mm_(Imperial) prime 300
+RED_PRO_ZOOM_18-85mm_(Imperial) zoom 18 85
+RED_PRO_ZOOM_18-85mm_(Metric) zoom 18 85
+#Angenieux
+Optimo_19.5-94 zoom 19.5 94
+Optimo_24-290 zoom 24 290
+Optimo_28-340 zoom 28 340
+Optimo_15-40 zoom 15 40
+Optimo_15-40_(+ASU) zoom 15 40
+Optimo_28-76 zoom 28 76
+Optimo_28-76_(+ASU) zoom 28 76
+Optimo_45-120 zoom 45 120
+Optimo_45-120_(+ASU) zoom 45 120
+Optimo_Style_16-40 zoom 16 40
+Optimo_Style_16-40_(+ASU) zoom 16 40
+Optimo_Style_30-76 zoom 30 76
+Optimo_Style_30-76_(+ASU) zoom 30 76
+Optimo_Style_25-250 zoom 25 250
+Optimo_Anamorphic_56-152_2s zoom 56 152
+Optimo_56-152_A2S_(+ASU) zoom 56 152
+Optimo_Anamorphic_30-72_2s zoom 30 72
+Optimo_30-72_A2S_(+ASU) zoom 30 72
+#ARRI
+ARRI_Master_Anamorphic_T1.9/35mm prime 35
+ARRI_Master_Anamorphic_T1.9/40mm prime 40
+ARRI_Master_Anamorphic_T1.9/50mm prime 50
+ARRI_Master_Anamorphic_T1.9/60mm prime 60
+ARRI_Master_Anamorphic_T1.9/75mm prime 75
+ARRI_Master_Anamorphic_T1.9/100mm prime 100
+ARRI_Master_Anamorphic_T1.9/135mm prime 135
+ARRI/Fujinon_Alura_T2.8/15.5-45mm zoom 15.5 45
+ARRI/Fujinon_Alura_T2.8/30-80mm zoom 30 80
+ARRI/Fujinon_Alura_T2.6/18-80mm zoom 18 80
+ARRI/Fujinon_Alura_T2.6/45-250mm zoom 45 250
+ARRI/Zeiss_LDS_Ultra_Prime_T2/12mm prime 12
+ARRI/Zeiss_LDS_Ultra_Prime_T1.9/14mm prime 14
+ARRI/Zeiss_LDS_Ultra_Prime_T1.9/16mm prime 16
+ARRI/Zeiss_LDS_Ultra_Prime_T1.9/20mm prime 20
+ARRI/Zeiss_LDS_Ultra_Prime_T1.9/24mm prime 24
+ARRI/Zeiss_LDS_Ultra_Prime_T1.9/28mm prime 28
+ARRI/Zeiss_LDS_Ultra_Prime_T1.9/40mm prime 40
+ARRI/Zeiss_LDS_Ultra_Prime_T1.9/50mm prime 50
+ARRI/Zeiss_LDS_Ultra_Prime_T1.9/65mm prime 65
+ARRI/Zeiss_LDS_Ultra_Prime_T1.9/85mm prime 85
+ARRI/Zeiss_LDS_Ultra_Prime_T1.9/100mm prime 100
+ARRI/Zeiss_LDS_Ultra_Prime_T1.9/135mm prime 135
+ARRI/Zeiss_LDS_Ultra_Prime_T1.9/180mm prime 180
+ARRI/Zeiss_Ultra_16_Lenses_T1.3/6mm prime 6
+ARRI/Zeiss_Ultra_16_Lenses_T1.3/8mm prime 8
+ARRI/Zeiss_Ultra_16_Lenses_T1.3/9.5mm prime 9.5
+ARRI/Zeiss_Ultra_16_Lenses_T1.3/12mm prime 12
+ARRI/Zeiss_Ultra_16_Lenses_T1.3/14mm prime 14
+ARRI/Zeiss_Ultra_16_Lenses_T1.3/18mm prime 18
+ARRI/Zeiss_Ultra_16_Lenses_T1.3/25mm prime 25
+ARRI/Zeiss_Ultra_16_Lenses_T1.3/35mm prime 35
+ARRI/Zeiss_Ultra_16_Lenses_T1.3/50mm prime 50
+ARRI/Zeiss_LWS _T2.6/15.5-45mm zoom 15.5 45
+ARRI/Zeiss_Master_Primes_T1.3/12mm prime 12
+ARRI/Zeiss_Master_Primes_T1.3/14mm prime 14
+ARRI/Zeiss_Master_Primes_T1.3/16mm prime 16
+ARRI/Zeiss_Master_Primes_T1.3/18mm prime 18
+ARRI/Zeiss_Master_Primes_T1.3/21mm prime 21
+ARRI/Zeiss_Master_Primes_T1.3/25mm prime 25
+ARRI/Zeiss_Master_Primes_T1.3/27mm prime 27
+ARRI/Zeiss_Master_Primes_T1.3/32mm prime 32
+ARRI/Zeiss_Master_Primes_T1.3/35mm prime 35
+ARRI/Zeiss_Master_Primes_T1.3/40mm prime 40
+ARRI/Zeiss_Master_Primes_T1.3/50mm prime 50
+ARRI/Zeiss_Master_Primes_T1.3/65mm prime 65
+ARRI/Zeiss_Master_Primes_T1.3/75mm prime 75
+ARRI/Zeiss_Master_Primes_T1.3/100mm prime 100
+ARRI/Zeiss_Master_Primes_T1.3/150mm prime 150
+ARRI/Zeiss_Ultra_Prime_T2.8/8mm prime 8
+ARRI/Zeiss_Ultra_Prime_T2.1/10mm prime 10
+ARRI/Zeiss_Ultra_Prime_T2.0/12mm prime 12
+ARRI/Zeiss_Ultra_Prime_T1.9/14mm prime 14
+ARRI/Zeiss_Ultra_Prime_T1.9/16mm prime 16
+ARRI/Zeiss_Ultra_Prime_T1.9/20mm prime 20
+ARRI/Zeiss_Ultra_Prime_T1.9/24mm prime 24
+ARRI/Zeiss_Ultra_Prime_T1.9/28mm prime 28
+ARRI/Zeiss_Ultra_Prime_T1.9/32mm prime 32
+ARRI/Zeiss_Ultra_Prime_T1.9/40mm prime 40
+ARRI/Zeiss_Ultra_Prime_T1.9/50mm prime 50
+ARRI/Zeiss_Ultra_Prime_T1.9/85mm prime 85
+ARRI/Zeiss_Ultra_Prime_T1.9/100mm prime 100
+ARRI/Zeiss_Ultra_Prime_T1.9/135mm prime 135
+ARRI/Zeiss_Ultra_Prime_T1.9/180mm prime 180
+ARRI/Zeiss_Macro_T2.0/100mm prime 100
+Zeiss_Compact_Prime_T3.6/18mm prime 18
+Zeiss_Compact_Prime_T2.9/21mm prime 21
+Zeiss_Compact_Prime_T2.9/25mm prime 25
+Zeiss_Compact_Prime_T2.1/28mm prime 28
+Zeiss_Compact_Prime_T2.1/35mm prime 35
+Zeiss_Compact_Prime_T1.5/50mm prime 50
+Zeiss_Compact_Prime_T1.5/85mm prime 85
+#Sony
+Vario-Sonnar_T*_16-35mm_F2.8_ZA_SSM_II zoom 16 35
+Vario-Sonnar_T*_24-70mm_F2.8_ZA_SSM_II zoom 24 70
+Vario-Sonnar_T*_16-35mm_F2.8_ZA_SSM zoom 16 35
+Vario-Sonnar_T*_DT_16-80mm_F3.5-4.5_ZA zoom 16 80
+Vario-Sonnar_T*_24-70mm_F2.8_ZA_SSM zoom 24 70
+Distagon_T* 24mm F2_ZA_SSM prime 24
+Planar_T*_50mm_F1.4_ZA_SSM prime 50
+Planar_T*_85mm_F1.4_ZA prime 85
+Sonnar_T*_135mm_F1.8_ZA prime 135
+35mm_F1.4_G prime 35
+70-200mm_F2.8_G zoom 70 200
+70-200mm_F2.8_G SSM_II zoom 70 200
+70-300mm_F4.5-5.6_G_SSM_II zoom 70 300
+70-300mm_F4.5-5.6_G_SSM zoom 70 300
+70-400mm_F4-5.6 G_SSM zoom 70 400
+70-400mm_F4-5.6 G_SSM_II zoom 70 400
+300mm_F2.8_G_SSM_II prime 300
+500mm_F4 G_SSM prime 500
+28-75mm_F2.8_SAM zoom 28 75
+20mm_F2.8 prime 20
+50mm_F1.4 prime 50
+85mm_F2.8_SAM prime 85
+16mm_F2.8_”„—€ prime 16
+135mm_F2.8_(T4.5)_STF_…¢Ωπ prime 135
+50mm_F2.8_Œ¢æ‡ prime 50
+100mm_F2.8_Œ¢æ‡ prime 100
+Vario-Sonnar_T*_DT_16-80mm_F3.5-4.5_ZA zoom 16 80
+DT_11-18mm_F4.5-5.6 zoom 11 18
+DT_16-50mm_F2.8_SSM zoom 16 50
+DT_16-105mm_F3.5-5.6 zoom 16 105
+DT_18-55mm_F3.5-5.6_SAM II zoom 18 55
+DT_18-135mm_F3.5-5.6_SAM zoom 18 135
+DT_18-250mm_F3.5-6.3 zoom 18 250
+DT_55-200mm_F4-5.6_SAM zoom 55 200
+DT_55-300mm_F4.5-5.6_SAM zoom 55 300
+DT_35mm_F1.8_SAM prime 35
+DT_50mm_F1.8_SAM prime 50
+DT_30mm_F2.8_SAM_Œ¢æ‡ prime 30
