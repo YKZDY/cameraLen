@@ -2,4 +2,4 @@
 
 Overview:
 -----
-  该插件可以通过从文本中读取摄像机和镜头的数据，帮助使用者在Maya中快速匹配虚拟摄像机与真实摄像机之间的参数。
+  This plug-in read data of both sensor and lens from text file, then use it to quickly matching the parameters between virtual camera and the real one.
